@@ -20,7 +20,8 @@ end
 
 def monopoly_with_third_tierok  
   ok =  {
-    :railroads => {
+    :railroads => 
+    {
   :pieces => 4, 
   :rent_in_dollars => 
   {
