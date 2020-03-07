@@ -7,7 +7,7 @@ ok =  {:railroads => {}
 end
 
 def monopoly_with_second_tier
-  ok =  {:railroads => {,
+  ok =  {:railroads => {
   :pieces => "4", :rent_in_dollars => {}, :names => {}
 }
 }
